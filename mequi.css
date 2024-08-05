@@ -1,0 +1,276 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  text-align: center;
+}
+
+/*  GRID1 DA NAV  */
+
+.grid01 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.grid01 img {
+  width: 170%;
+  height: 95%;
+}
+
+.grid01 p {
+  font-size: 15px;
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+
+p.texto1 {
+  color: rgb(124, 124, 124);
+}
+
+#App {
+  width: 80%;
+  height: 50px;
+}
+
+.botao2 h7 {
+  font-size: 15px;
+}
+
+.botao2 img {
+  height: 30px;
+  width: 25px;
+}
+
+.botao img {
+  height: 30px;
+  width: 35px;
+}
+
+#Pedido {
+  width: 100%;
+  height: 50px;
+}
+
+.botao h7 {
+  font-size: 15px;
+}
+
+/* GRID2 DA NAV */
+
+.grid2 p {
+  font-size: 17px;
+  color: rgb(94, 94, 94);
+}
+
+.grid2 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  position: relative;
+  justify-content: center;
+  right: 4%;
+  scroll-padding-bottom: 50%;
+}
+
+/*imagem que separa a nav do restante do site + botao*/
+
+.separa img {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  mask-repeat: no-repeat;
+  top: 2%;
+}
+
+.separa h1 {
+  display: flex;
+  position: absolute;
+  bottom: 10%;
+  left: 70%;
+  font-weight: 700;
+}
+
+.separa p {
+  display: flex;
+  position: absolute;
+  font-size: 15px;
+  bottom: 5%;
+  left: 71%;
+}
+
+.separa button {
+  display: flex;
+  position: absolute;
+  top: 93%;
+  left: 83%;
+  width: 10%;
+  height: 7%;
+}
+
+#botao3 h6 {
+  font-size: 15px;
+}
+
+/* cards */
+
+#card {
+  display: flex;
+  top: 10%;
+}
+#card button {
+  font-size: 10px;
+  height: 40px;
+}
+
+#card h5 {
+  font-weight: 700;
+}
+
+#card p {
+  font-size: 17px;
+}
+
+#card2 h5{
+  font-weight: 700;
+    }
+#card2 p{
+  font-size: 15px;
+}
+
+#card2{
+  display: flex;
+  position: relative;
+  left: 15%;
+  width: 10%;
+}
+
+#card2 button {
+  font-size: 10px;
+  height: 40px;
+}
+
+#card#pbotao{
+  font-size: 1px;
+}
+
+/*queijolensia*/
+
+br
+br
+br
+
+#queijofinal{
+  display: flex;
+  position: absolute;
+  height: 15%;
+  top: 615%;
+  left: 7%;
+}
+
+#queijao{
+  display: flex;
+  width: 100%;
+}
+
+#logofinal{
+  display: flex;
+  position: absolute;
+  height: 17%;
+  top: 635%;
+  left: 7%;
+}
+
+.finalmente h1{
+  font-size: 40px;
+  font-weight: 800;
+  display: flex;
+  position: absolute;
+  top: 634%;
+  left: 17%;
+}
+
+.finalmente h5{
+  font-size: 15px;
+  display: flex;
+  position: absolute;
+  top: 642%;
+  left: 17%;
+  width: 40%;
+}
+
+.finalmente button{
+  display: flex;
+  position: absolute;
+  top: 640%;
+  left: 77%;
+  height: 6%;
+  width: 8%;
+}
+
+.finalmente p{
+  font-size: 15px;
+}
+
+/* qfinal serio aqui acaba */
+
+.lista{
+  
+  display: inline-block;
+  width: 80%;
+  
+}
+
+.lista h2{
+  font-size: 15px;
+ 
+}
+
+.lista ul{
+  font-size: 12px;
+  color: rgb(100, 100, 100);
+  
+ 
+}
+
+.eh img{
+  display: flex;
+  position: relative;
+  width: 12%;
+  left: 5%;
+
+}
+
+#cansei{
+  display: flex;
+  position: absolute;
+  width: 18%;
+  left: 70%;
+  top: 694%;
+}
+
+.eh hr{
+  width: 100%;
+  
+}
+
+
+
+.ahh p{
+  font-size: 15px;
+  color: rgb(114, 113, 113);
+}
+
+.ahh img{
+  width: 80%;
+  display: flex;
+  justify-content: right;
+ 
+}
